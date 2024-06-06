@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="flex">
+<pre>
+<p align="center"><a href="#"><img src="window-icons.png" width=40px align="left"></a><sub>Welcome</sub><picture><img src="window-icons-holdplace.png" width=40px align="right"></picture</p>
 
-<!--
-**joselibs/joselibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+class Me:
+    def __init__(self):
+        self.name = "joselibs"
+        self.role = "Dev"
+        self.language_spoken = ["pt_BR", "en_US"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("Hiii! How are you? :)")
+
+
+me = Me()
+me.say_hi()
+```
+
+</pre>
+</div>
