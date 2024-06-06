@@ -10,7 +10,7 @@ class Me:
     def __init__(self):
         self.name = "joselibs"
         self.role = "Dev"
-        self.language_spoken = ["pt_BR", "en_US"]
+        self.language_spoken = ["tl_PH", "en_US"]
 
     def say_hi(self):
         print("Hiii! How are you? :)")
