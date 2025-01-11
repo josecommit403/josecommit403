@@ -9,8 +9,8 @@
 class Me:
     def __init__(self):
         self.name = "joselibs"
-        self.role = "Dev"
-        self.language_spoken = ["tl_PH", "en_US", "de_DE", "fr_FR"]
+        self.role = ["Dev", "Pentester"]
+        self.language_spoken = ["tl_PH", "en_US", "de_DE", "fr_FR", "ru_RU" ]
 
     def say_hi(self):
         print("Hiii! How are you? :)")
